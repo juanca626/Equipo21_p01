@@ -6,21 +6,26 @@ capacidad para resolver problemas mediante la elaboración de algoritmos inocent
 Recuerden que nunca se termina de aprender a programar es un proceso de aprendizaje continuo, y cada pequeño paso que 
 den los acercará más a convertirse en grandes programadores.
 
-## Equipo #(Numero) 
-(Nombre1) (ApellidoPaterno1) (ApellidoMaterno1)
+## recursores_E21 #(Equipo21)
 
-(No. Cuenta 1)
+(Juan Carlos) (Fernández) (Morales)
 
-(Correo1)
+(321068361)
 
-(Nombre2) (ApellidoPaterno2) (ApellidoMaterno2)
+(juanca626@ciencias.unam.mx)
 
-(No. Cuenta 2)
+(Jesús) (Echeverría) (Verduzco)
 
-(Correo2)
+(321239167)
+
+(jesus448@ciencias.unam.mx)
+
 
 ## Instrucciones
-(Escribe las instrucciones de ejecución aquí)
+*Elegir el archivo a leer editando el nombre de este en sus 3 versiones: 
+-String archivo = “random_text_100k”
+-String archivo = “random_text_200k” 
+-String archivo = “random_text_800k”,
 
 ## Comentarios
 1. Puedes utilizar todo lo revisado hasta el momento.
@@ -30,7 +35,13 @@ den los acercará más a convertirse en grandes programadores.
 5. Al finalizar se debe compartir el link HTTPS y SSH por el classroom.
 
 # Respuestas
-- Archivo 100k: Tiempo de ejecucion 16ms
-El carácter 'j' aparece 50001 veces.
+- Archivo 100k:
+El caracter mas repetido es 'k' y aparece 34392 veces
+El programa tarda: 30 ms
 - Archivo 200k
+El caracter mas repetido es 'b' y aparece 68781 veces
+El programa tarda: 34 ms
 - Archivo 800k
+El caracter mas repetido es 'g' y aparece 275345 veces
+El programa tarda: 55 ms
+
