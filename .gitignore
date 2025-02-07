@@ -1,0 +1,6 @@
+*.md~
+*.java~
+*.class
+*.gitignore~
+*.DS_Store
+*.log
